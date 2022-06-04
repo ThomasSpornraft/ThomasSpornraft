@@ -1,5 +1,10 @@
 ## Hi there, I'm Thomas 👋
 
+#### just a simple guy from a village somewhere in the south of germany
+#### i do and learn web develompent just for fun
+
+## being open to technology, I always experiment a lot, but my focus is on JavaScript, Node and related topics 
+
 📫 How to reach me:   
   
 <a href="https://www.facebook.com/thomas.spornraft"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="24px" alt="Facebook" /></a> 
