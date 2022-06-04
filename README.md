@@ -1,5 +1,8 @@
 ## Hi there, I'm Thomas 👋
 
+📫 How to reach me: 
+<a><img src="https://allfacebook.de/wp-content/uploads/2020/02/f_logo_RGB-Blue_1024-300x300.png" width="24px" /></a>
+
 <!--
 **ThomasSpornraft/ThomasSpornraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
