@@ -3,7 +3,7 @@
 📫 How to reach me:   
   
 <a href="https://www.facebook.com/thomas.spornraft"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="24px" alt="Facebook" /></a>
-<a href="https://twitter.com/TSpornraft"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="Twitter"/></a>
+<a href="https://twitter.com/TSpornraft"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" width="24px"  alt="Twitter"/></a>
 
 <!--
 **ThomasSpornraft/ThomasSpornraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
