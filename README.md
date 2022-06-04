@@ -2,7 +2,7 @@
 
 📫 How to reach me:   
   
-<a href="https://www.facebook.com/thomas.spornraft" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="24px" alt="Facebook" /></a> 
+<a href="https://www.facebook.com/thomas.spornraft" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="24px" alt="Facebook" /></a> 
 <a href="https://twitter.com/TSpornraft" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" width="24px"  alt="Twitter"/></a>
 
 <!--
