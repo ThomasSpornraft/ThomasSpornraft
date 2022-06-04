@@ -3,7 +3,7 @@
 #### just a simple guy from a village somewhere in the south of germany
 #### i do and learn web develompent just for fun
 
-## being open to technology, I always experiment a lot, but my focus is on JavaScript, Node and related topics 
+being open to technology, I always experiment a lot, but my focus is on JavaScript, Node and related topics 
 
 📫 How to reach me:   
   
